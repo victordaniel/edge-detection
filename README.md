@@ -3,7 +3,7 @@
 
 ****<h3>[Link prediction in social networks -twitter dataset with injected anomalies](https://arxiv.org/pdf/1610.07525.pdf)</h3>****
 
-<h3>[Link prediction in social networks -twitter dataset with injected anomalies](https://arxiv.org/pdf/1610.07525.pdf)</h3>
+****<h3>[Link prediction in social networks -twitter dataset with injected anomalies](https://arxiv.org/pdf/1610.07525.pdf)</h3>****
 
 ```
  used several datasets and auc measure to show the performance of the proposed method.
