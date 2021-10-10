@@ -9,3 +9,4 @@
  used several datasets and auc measure to show the performance of the proposed method.
  ```
 [Fake news detecion code](https://github.com/safe-graph/GNN-FakeNews)
+[oceancode link](https://codeocean.com/capsule/7305473/tree/v1)
