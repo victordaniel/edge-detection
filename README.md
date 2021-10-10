@@ -11,4 +11,7 @@
 [Fake news detecion code](https://github.com/safe-graph/GNN-FakeNews)
 [oceancode link](https://codeocean.com/capsule/7305473/tree/v1)
 
-****<h3>[benchmark paper for fake news detection](https://arxiv.org/pdf/2007.03316.pdf1)</h3>****
+****<h3>[benchmark paper for fake news detection](https://arxiv.org/pdf/2007.03316.pdf1)</h3
+ 
+
+****<h3>[BASEMODELS FOR EGE ANOMALY DETECTION](https://arxiv.org/pdf/2001.06362.pdf)</h3>****
