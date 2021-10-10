@@ -11,4 +11,4 @@
 [Fake news detecion code](https://github.com/safe-graph/GNN-FakeNews)
 [oceancode link](https://codeocean.com/capsule/7305473/tree/v1)
 
-****[benchmark paper for fake news detection](https://arxiv.org/pdf/2007.03316.pdf1)
+****[benchmark paper for fake news detection](https://arxiv.org/pdf/2007.03316.pdf1)****
