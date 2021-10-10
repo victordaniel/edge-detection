@@ -15,3 +15,4 @@
  
 
 ****<h3>[BASEMODELS FOR EGE ANOMALY DETECTION](https://arxiv.org/pdf/2001.06362.pdf)</h3>****
+        <li>[Information credibility on twitter](https://dl.acm.org/doi/abs/10.1145/1963405.1963500)
