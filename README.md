@@ -8,12 +8,13 @@ The edges with low authentic scores, which are also called weak links in this pa
 ```
 
 ****<h3>[Chakraboti](Chakrabarti D. AutoPart: parameter-free graph partitioning and outlier detection. In: Boulicaut JF, Esposito F, Giannotti F, Pedreschi D, eds. Knowledge discovery in databases) </h3>****
-
+```
 Edges that link the nodes from different clusters are considered as outliers.
 <b><u>Limitations</u>
 1. one shall not classify all weak links as outliers since they are part of the normal graph data. 
 2. many outlier edges do not happen between the groups. 
 3. many graphs do not contain easily partitionable groups</b>
+```
 
 
 ***(paper)[Lu L, Zhou T. Link prediction in complex networks: a survey. Physica A Stat Mech Appl. 2011;390(6):1150–70]***
