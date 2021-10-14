@@ -7,7 +7,7 @@ They  used random graph generation models to predict the number of edges between
 The edges with low authentic scores, which are also called weak links in this paper, are likely to be outliers.
 ```
 
-***<h3>[Chakraboti](Chakrabarti D. AutoPart: parameter-free graph partitioning and outlier detection. In: Boulicaut JF, Esposito F, Giannotti F, Pedreschi D, eds. Knowledge discovery in databases: PKDD 2004. Lecture notes in computer science. 2004. p. 112–24.) </h3>***
+****<h3>[Chakraboti](Chakrabarti D. AutoPart: parameter-free graph partitioning and outlier detection. In: Boulicaut JF, Esposito F, Giannotti F, Pedreschi D, eds. Knowledge discovery in databases: PKDD 2004. Lecture notes in computer science. 2004. p. 112–24.) </h3>****
 ```
 Edges that link the nodes from different groups are considered as outliers.
 ```
