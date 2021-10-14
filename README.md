@@ -7,6 +7,18 @@ They  used random graph generation models to predict the number of edges between
 The edges with low authentic scores, which are also called weak links in this paper, are likely to be outliers.
 ```
 
+***(Chakraboti) [Chakrabarti D. AutoPart: parameter-free graph partitioning and outlier detection. In: Boulicaut JF, Esposito F, Giannotti F, Pedreschi D, eds. Knowledge discovery in databases: PKDD 2004. Lecture notes in computer science. 2004. p. 112–24.] ***
+```
+Edges that link the nodes from different groups are considered as outliers.
+```
+
+***[Lu L, Zhou T. Link prediction in complex networks: a survey. Physica A Stat Mech Appl. 2011;390(6):1150–70]***
+```
+Detection of missing edges (or link prediction) is the opposite technique of outlier edge detection.
+These algorithms find missing edges between pairs of nodes in a graph.
+```
+
+
 ****<h3>[Link prediction in social networks -twitter dataset with injected anomalies](https://arxiv.org/pdf/1610.07525.pdf)</h3>****
 
 <h3>[Link prediction in social networks -twitter dataset with injected anomalies](https://arxiv.org/pdf/1610.07525.pdf)</h3>
