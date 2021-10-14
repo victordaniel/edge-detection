@@ -22,6 +22,7 @@ Edges that link the nodes from different clusters are considered as outliers.
 
 
 ***(paper)[Lu L, Zhou T. Link prediction in complex networks: a survey. Physica A Stat Mech Appl. 2011;390(6):1150–70]***
+
 ```
 Detection of missing edges (or link prediction) is the opposite technique of outlier edge detection.
 These algorithms find missing edges between pairs of nodes in a graph.
