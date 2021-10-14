@@ -5,9 +5,9 @@ They  proposed an authentic score of an edge using the clustering property of so
 The authentic score of an edge is determined by the difference of the actual and the expected number of edges that link the two groups of nodes that are around the investigating edge.
 They  used random graph generation models to predict the number of edges between the two groups of nodes. 
 The edges with low authentic scores, which are also called weak links in this paper, are likely to be outliers.
+```
 
-
-
+****<h3>[Chakrabarti](Chakrabarti D AutoPart parameter free graph partitioning and outlier detection  Knowledge discovery in databases)</h3>****
 ****<h3>[Chakrabarti](Chakrabarti D AutoPart parameter free graph partitioning and outlier detection  Knowledge discovery in databases) </h3>****
 <p>
 Edges that link the nodes from different clusters are considered as outliers.
