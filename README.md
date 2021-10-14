@@ -1,5 +1,11 @@
 # edge-detection
 ****<h3>[Outlier edge detection using random graph generation models and applications](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-017-0073-8)</h3>****
+'''
+They  proposed an authentic score of an edge using the clustering property of social network graphs.
+The authentic score of an edge is determined by the difference of the actual and the expected number of edges that link the two groups of nodes that are around the investigating edge.
+They  used random graph generation models to predict the number of edges between the two groups of nodes. 
+The edges with low authentic scores, which are also called weak links in this paper, are likely to be outliers.
+'''
 
 ****<h3>[Link prediction in social networks -twitter dataset with injected anomalies](https://arxiv.org/pdf/1610.07525.pdf)</h3>****
 
