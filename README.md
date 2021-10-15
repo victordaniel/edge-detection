@@ -51,3 +51,9 @@ These algorithms find missing edges between pairs of nodes in a graph.
  
  
   ****<h3>[fake twitter follower detection using denoising autoencoder][Paper](https://dl.acm.org/doi/pdf/10.1145/3106426.3106489)</h3>****
+ ```
+ Dataset: twitter dataset 1951 followers(already used this)
+ baselines: j48,RF,D,AB,KNN,LR,BN
+ Methodology: Denoising autoencoder with features  age,frineds ratio,has profile etc.,
+ 
+ ```
