@@ -42,8 +42,12 @@ These algorithms find missing edges between pairs of nodes in a graph.
 ****<h3>[benchmark paper for fake news detection](https://arxiv.org/pdf/2007.03316.pdf1)</h3
  
  
- ****<h3>[fake twitter follower detection using denoising autoencoder](https://dl.acm.org/doi/pdf/10.1145/3106426.3106489)</h3>****
+
  
 
 ****<h3>[BASEMODELS FOR EGE ANOMALY DETECTION](https://arxiv.org/pdf/2001.06362.pdf)</h3>****
         <li>[Information credibility on twitter](https://dl.acm.org/doi/abs/10.1145/1963405.1963500)
+ 
+ 
+ 
+  ****<h3>[fake twitter follower detection using denoising autoencoder][Paper](https://dl.acm.org/doi/pdf/10.1145/3106426.3106489)</h3>****
