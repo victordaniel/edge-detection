@@ -57,3 +57,6 @@ These algorithms find missing edges between pairs of nodes in a graph.
  Methodology: Denoising autoencoder with features  age,frineds ratio,has profile etc.,
  
  ```
+ 
+ 
+ (Fame for sale: efficient detection of fake Twitter followers)[https://arxiv.org/pdf/1509.04098.pdf]
