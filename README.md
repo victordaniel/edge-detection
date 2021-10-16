@@ -41,6 +41,7 @@ These algorithms find missing edges between pairs of nodes in a graph.
 (paper)[https://arxiv.org/pdf/2104.12259v1.pdf]
 
 ****<h3>[benchmark paper for fake news detection](https://arxiv.org/pdf/2007.03316.pdf1)</h3
+ <li> (Fake News Detection on Social Media using Geometric Deep Learning )[https://arxiv.org/pdf/1902.06673.pdf]</li>
  
  
 
