@@ -42,8 +42,21 @@ These algorithms find missing edges between pairs of nodes in a graph.
 
 ****<h3>[benchmark paper for fake news detection](https://arxiv.org/pdf/2007.03316.pdf1)</h3
  <li> (Fake News Detection on Social Media using Geometric Deep Learning )[https://arxiv.org/pdf/1902.06673.pdf]</li>
- 
+```
+<u>Prior work</u>
+Three types of work:
+<li>content based</li>
+<li>             </li>
+<li>  propagation based           </li>
+Content-based approaches, which are used in the majority of works on fake news detection, rely on linguistic (lexical and syntactical)
+features that can capture deceptive cues or writing styles [1, 32, 30, 29, 28]. The main drawback
+of content-based approaches is that they can be defied by sufficiently sophisticated fake news that
+does not immediately appear as fake. Furthermore, most linguistic features are language-dependent,
+limiting the generality of these approaches
+
+```
 [base model perfomance comparison](base.png)
+
  
  
 
